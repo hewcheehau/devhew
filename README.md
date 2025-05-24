@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Hew </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=2F80ED&center=true&width=435&lines=Flutter+Developer;React+Native+Explorer;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=2F80ED&center=true&width=435&lines=Flutter+Developer;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
